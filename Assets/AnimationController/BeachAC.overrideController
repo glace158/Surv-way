@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BeachAC
+  m_Controller: {fileID: 9100000, guid: c68eaea27fd81234aa685e457b018d70, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: -203655887218126122, guid: 931d2cc798ad1b346b59f55f7a1505b3,
+      type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: 90d68d1aa2833e7489f1ddf1253cf906,
+      type: 3}
+  - m_OriginalClip: {fileID: -203655887218126122, guid: 988aeac6e4df76042894142ce33b4448,
+      type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: 573aa2ab9406d4b4d89377873a7dc33c,
+      type: 3}
+  - m_OriginalClip: {fileID: -203655887218126122, guid: 28dd7a00b12bf86419106334dbcc8fd1,
+      type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: c36bf40451919604299e20882b9fb669,
+      type: 3}
+  - m_OriginalClip: {fileID: -203655887218126122, guid: 5be4b3ee6df0e914893b128686ec0fac,
+      type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: 741fe97f2871ece4aaa91268be4d8292,
+      type: 3}

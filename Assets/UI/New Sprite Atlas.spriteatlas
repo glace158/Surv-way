@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: New Sprite Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 0
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 81eef71e6e8b7b944815192c6ec285de, type: 3}
+    - {fileID: 2800000, guid: a695b353ba3c4b640a4c753ca160bb26, type: 3}
+    - {fileID: 2800000, guid: b784cd26556247a459a8425753d399dd, type: 3}
+    - {fileID: 2800000, guid: 388227c4b14260541b466fea0c240728, type: 3}
+    totalSpriteSurfaceArea: 1424352
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: a695b353ba3c4b640a4c753ca160bb26, type: 3}
+  - {fileID: 21300000, guid: 388227c4b14260541b466fea0c240728, type: 3}
+  - {fileID: 21300000, guid: b784cd26556247a459a8425753d399dd, type: 3}
+  - {fileID: 21300000, guid: 81eef71e6e8b7b944815192c6ec285de, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - "\uCEA1\uCC98_2020_01_23_13_05_16_700"
+  - "\uCEA1\uCC98_2020_01_23_13_07_11_931"
+  - "\uCEA1\uCC98_2020_01_23_13_05_45_193"
+  - "\uCEA1\uCC98_2020_01_23_13_04_20_935"
+  m_Tag: New Sprite Atlas
+  m_IsVariant: 0
